@@ -1,5 +1,4 @@
 import sarees from "@/data/sarees.json";
-import Link from "next/link";
 import SareeCard from "./components/SareeCard";
 
 export default function Home() {
