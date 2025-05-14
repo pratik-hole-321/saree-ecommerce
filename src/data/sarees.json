@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1",
+    "name": "Teal Blue Patterned Saree",
+    "price": "₹12000",
+    "description": "Elegant teal blue patterned saree with rich silk texture.",
+    "images": [
+      "/images/paithani.jpg",
+      "/images/SB16818_413-PURPLE_301.jpg",
+      "/images/paithani.jpg",
+      "/images/paithani.jpg",
+      "/images/SB16818_413-PURPLE_301.jpg",
+      "/images/paithani.jpg",
+      "/images/paithani.jpg",
+      "/images/SB16818_413-PURPLE_301.jpg",
+      "/images/paithani.jpg",
+      "/images/paithani.jpg",
+      "/images/SB16818_413-PURPLE_301.jpg",
+      "/images/paithani.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Banarasi Saree",
+    "price": "₹9000",
+    "description": "Luxurious purple Banarasi saree with zari weaving.",
+    "images": [
+      "/images/SB16818_413-PURPLE_301.jpg",
+      "/images/paithani.jpg",
+      "/images/SB16818_413-PURPLE_301.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Banarasi Saree",
+    "price": "₹9000",
+    "description": "Elegant black Banarasi saree perfect for evening occasions.",
+    "images": [
+      "/images/banarasi_BLACK.jpg",
+      "/images/paithani.jpg",
+      "/images/banarasi_BLACK.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Dark Pink Zari Weaved Saree",
+    "price": "₹9000",
+    "description": "Gorgeous dark pink saree with zari weaving.",
+    "images": [
+      "/images/banarasi_rani.jpg",
+      "/images/paithani.jpg",
+      "/images/banarasi_rani.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Banarasi Saree",
+    "price": "₹9000",
+    "description": "Classic Banarasi saree for festive occasions.",
+    "images": [
+      "/images/SB16818_413-PURPLE_301.jpg",
+      "/images/paithani.jpg",
+      "/images/SB16818_413-PURPLE_301.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Banarasi Saree",
+    "price": "₹9000",
+    "description": "Elegant wine-colored Banarasi saree with royal appeal.",
+    "images": [
+      "/images/SB17128_422-WINE_301.jpg",
+      "/images/paithani.jpg",
+      "/images/SB17128_422-WINE_301.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Banarasi Saree",
+    "price": "₹9000",
+    "description": "Graceful beige Banarasi saree with traditional designs.",
+    "images": [
+      "/images/SB17229_421-BEIGE_301.jpg",
+      "/images/paithani.jpg",
+      "/images/SB17229_421-BEIGE_301.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Banarasi Saree",
+    "price": "₹9000",
+    "description": "Stylish black Banarasi saree ideal for parties.",
+    "images": [
+      "/images/banarasi_BLACK.jpg",
+      "/images/paithani.jpg",
+      "/images/banarasi_BLACK.jpg"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Banarasi Saree",
+    "price": "₹9000",
+    "description": "Traditional Banarasi saree with rich motifs.",
+    "images": [
+      "/images/banarasi.jpg",
+      "/images/paithani.jpg",
+      "/images/banarasi.jpg"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Banarasi Saree",
+    "price": "₹9000",
+    "description": "Bold red Banarasi saree with classic look.",
+    "images": [
+      "/images/banarasi_red.jpg",
+      "/images/paithani.jpg",
+      "/images/banarasi_red.jpg"
+    ]
+  }
+]
